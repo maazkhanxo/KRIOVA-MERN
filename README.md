@@ -12,7 +12,10 @@ First Open terminal in this project directory
 2) cd .\backend\
 3) npm i
 4) nodemon .\index.js
-5) cd ../
-6) npm run start
+5) OPEN ANOTHER TERMIAL
+6) cd ../
+7) npm run start
+
+MAKE SURE YOUR BOTH BACKEND AND CLIENT IS RUNNING TO OVERVIEW THE FULL WORKING OF AN APP
 
 Now YOU are Ready to go
